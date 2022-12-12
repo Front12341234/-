@@ -133,35 +133,35 @@ function getIndexNavSectionData(){
 function getSkilledData(){
     var arr = [
                 {
-                        company:"西狮独品美容美发有限公司",
+                        company:"海南大学男生宿舍",
                         avatar:"../../images/skilledt_img_01.png",
-                        nickname:'张技师',
-                        price:'¥500',
-                        message:'从事美发行业60余年，有丰富经验',
+                        nickname:'张保洁员',
+                        price:'¥50/h',
+                        message:'从事保洁行业10余年，有丰富经验',
                         distance:'100m'
                     },
                     {
-                        company:"圆月亮美甲沙龙",
+                        company:"海南大学女生宿舍",
                         avatar:"../../images/skilledt_img_02.png",
-                        nickname:'包技师',
-                        price:'¥800',
-                        message:'从事美发行业60余年，有丰富经验',
+                        nickname:'包阿姨',
+                        price:'¥50/h',
+                        message:'从事洗衣行业10余年，有丰富经验',
                         distance:'200m'
                     },
                     {
-                        company:"璀璨美睫会所",
+                        company:"维修公司",
                         avatar:"../../images/skilledt_img_03.png",
                         nickname:'王技师',
-                        price:'¥600',
-                        message:'从事美发行业60余年，有丰富经验',
+                        price:'¥60/h',
+                        message:'从事维修行业10余年，有丰富经验',
                         distance:'100m'
                     },
                     {
-                        company:"柔丝妮美容养生馆",
+                        company:"海南大学女生宿舍2",
                         avatar:"../../images/skilledt_img_04.png",
-                        nickname:'黄技师',
-                        price:'¥800',
-                        message:'从事美发行业60余年，有丰富经验',
+                        nickname:'黄阿姨',
+                        price:'¥40/h',
+                        message:'从事保洁行业10余年，有丰富经验',
                         distance:'400m'
                     }
             ]

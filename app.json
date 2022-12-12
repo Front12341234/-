@@ -26,7 +26,7 @@
       "selectedIconPath":"images/index_icon_HL.png"
     }, {
       "pagePath": "pages/technician/technician",
-      "text": "技师",
+      "text": "保洁员",
       "iconPath":"images/skill_icon.png",
       "selectedIconPath":"images/skill_icon_HL.png"
     }, {

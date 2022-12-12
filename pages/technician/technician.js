@@ -10,7 +10,7 @@ Page({
   data: {
       // nav 初始化
       // cas picker
-      casArray: ['美发','美容','美甲','美睫'],
+      casArray: ['洗衣','保洁','维修'],
       casIndex:0,
       // addr picker
       addrArray: util.replacePhone(fileData.userData().addrs,false),
