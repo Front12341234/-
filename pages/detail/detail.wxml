@@ -1,21 +1,22 @@
 <view class="container">
 <view class="ar_coverpath">
-    <image src="../../images/banner_02.png" mode="aspectFill"></image>
+    <image src="../../images/detailImage.jpg" mode="aspectFill"></image>
 </view>
 <view class="ar_cont">
-    <text class="ar_cont_h1">秋季自然特价美甲</text>
+    <text class="ar_cont_h1">家政保洁</text>
     <text class="ar_cont_price">价格：¥198  </text>
     <text>   
-美甲是一种对指（趾）甲进行装饰美化的工作，又称甲艺设计。美甲是根据客人的手形、甲形、肤质、服装的色彩和要求，对指（趾）甲进行消毒、清洁、护理、保养、修饰美化的过程。具有表现形式多样化的特点。
+      家政保洁全屋治理包括居家开荒清洗、一般家庭保洁清洗、室内空气检测治理清洗、地毯清洗清洗、沙发清洗，墙面及家居表面清洁清洗、地板清洁清洗、玻璃清洁等。
     </text>
     <view class="ar_line"></view>
     <text class="ar_cont_h1">详情描述</text>
     <text>
-    一、涂指甲油之前要涂上指甲底油
-    二、不涂面油会让美甲面不堪一击
-    三、短甲小最好涂深色指甲油
-    四、美甲颜色要保持协调
-    五、不要小看修甲工具
+    一、清理明显的大垃圾
+    二、吸尘
+    三、擦玻璃
+    四、卫生间清洗
+    五、厨房清洗
+    六、卧室及大厅地面清洁
     </text>
     <button class="ar_book" bindtap="bookTap">立即预定</button>
 </view>

@@ -9,7 +9,7 @@ Page({
       colors:['red','orange','yellow','green','purple'],
       // banner 初始化
       banner_url: fileData.getBannerData(),
-      indicatorDots: true,
+      indicatorDots: false,
       vertical: false,
       autoplay: true,
       interval: 3000,

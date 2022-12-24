@@ -11,7 +11,7 @@
           <block wx:for-items="{{banner_url}}" wx:key="item.id">
               <swiper-item>
                 <block wx:if="{{item}}">
-                  <image src="{{item}}"  mode="aspectFill"/>
+                  <image src="/images/house.png"  mode="aspectFit"/>
                 </block>
                 <block wx:else>
                   <image src="../../images/default_pic.png" mode="aspectFill"></image>
