@@ -2,7 +2,7 @@
  * banner数据
  */ 
 function getBannerData(){
-    var arr = ['../../images/banner_01.png', '../../images/banner_02.png', '../../images/banner_03.png', '../../images/banner_04.png']
+    var arr = ['../../images/house.png']
     return arr
 }
 /*
@@ -12,29 +12,29 @@ function getIndexNavData(){
     var arr = [
             {
                 id:1,
-                icon:"../../images/nav_icon_01.png",
-                title:"推荐"
+                icon:"../../images/维修.png",
+                title:"维修"
             },
             {
                 id:2,
-                icon:"../../images/nav_icon_02.png",
-                title:"美甲"
+                icon:"../../images/保洁.png",
+                title:"保洁"
             },
             {
                 id:3,
-                icon:"../../images/nav_icon_03.png",
-                title:"美容"
-            },
-            {
-                id:4,
-                icon:"../../images/nav_icon_04.png",
-                title:"美发"
-            },
-            {
-                id:5,
-                icon:"../../images/nav_icon_05.png",
-                title:"美睫"
+                icon:"../../images/洗衣.png",
+                title:"洗衣"
             }
+            // {
+            //     id:4,
+            //     icon:"../../images/nav_icon_04.png",
+            //     title:"美发"
+            // },
+            // {
+            //     id:5,
+            //     icon:"../../images/nav_icon_05.png",
+            //     title:"美睫"
+            // }
         ]
     return arr
 }
@@ -46,63 +46,63 @@ function getIndexNavSectionData(){
                 [
                     {
                         
-                        subject:"秋季自然特价美甲",
-                        coverpath:"../../images/recommend_img_01.png",
-                        price:'¥198',
-                        message:'我们追求的是没有最长只有更长！'
+                        subject:"高级保洁员 张阿姨",
+                        coverpath:"../../images/aunt.png",
+                        price:'¥68',
+                        message:'我们追求的是最干净！'
                     },
                     {
                         
-                        subject:"睫毛稀疏 种睫毛来帮忙",
-                        coverpath:"../../images/recommend_img_02.png",
-                        price:'¥1888',
-                        message:'我们追求的是没有最长只有更长！'
+                      subject:"高级保洁员 张阿姨",
+                      coverpath:"../../images/aunt.png",
+                      price:'¥68',
+                      message:'我们追求的是最干净！'
                     },
                     {
                         
-                        subject:"爱丽克EircParisSalon",
-                        coverpath:"../../images/recommend_img_03.png",
-                        price:'¥1588',
-                        message:'我们追求的是没有最长只有更长！'
+                      subject:"高级保洁员 张阿姨",
+                      coverpath:"../../images/aunt.png",
+                      price:'¥68',
+                      message:'我们追求的是最干净！'
                     },
                     {
                         
-                        subject:"伊本造型",
-                        coverpath:"../../images/recommend_img_05.png",
-                        price:'¥198',
-                        message:'伊本造型是由著名形象设计师杨进先生创办。'
+                      subject:"高级保洁员 张阿姨",
+                      coverpath:"../../images/aunt.png",
+                      price:'¥68',
+                      message:'我们追求的是最干净！'
                     },
                     {
                         
-                        subject:" 画对了妆，微微一笑颜值倍儿高！",
-                        coverpath:"../../images/recommend_img_06.png",
-                        price:'¥198',
-                        message:'《微微一笑很倾城》的剧照简直美腻到不要不要的'
+                      subject:"高级保洁员 张阿姨",
+                      coverpath:"../../images/aunt.png",
+                      price:'¥68',
+                      message:'我们追求的是最干净！'
                     }
                 ],
                 [
                     {
                         artype:'nails',
-                        subject:"秋季自然特价美甲",
-                        coverpath:"../../images/recommend_img_01.png",
-                        price:'¥198',
-                        message:'我们追求的是没有最长只有更长！'
+                        subject:"高级保洁员 张阿姨",
+                        coverpath:"../../images/aunt.png",
+                        price:'¥68',
+                        message:'我们追求的是最干净！'
                     }
                 ],
                 [
                     {
                         artype:'beauty',
-                        subject:"爱丽克EircParisSalon",
-                        coverpath:"../../images/recommend_img_03.png",
-                        price:'¥1588',
-                        message:'我们追求的是没有最长只有更长！'
+                        ssubject:"高级保洁员 张阿姨",
+                        coverpath:"../../images/aunt.png",
+                        price:'¥68',
+                        message:'我们追求的是最干净！'
                     },
                     {
                         artype:'beauty',
-                        subject:" 画对了妆，微微一笑颜值倍儿高！",
-                        coverpath:"../../images/recommend_img_06.png",
-                        price:'¥198',
-                        message:'《微微一笑很倾城》的剧照简直美腻到不要不要的'
+                        subject:"高级保洁员 张阿姨",
+                        coverpath:"../../images/aunt.png",
+                        price:'¥68',
+                        message:'我们追求的是最干净！'
                     }
                 ],
                 [
@@ -133,35 +133,35 @@ function getIndexNavSectionData(){
 function getSkilledData(){
     var arr = [
                 {
-                        company:"海南大学男生宿舍",
-                        avatar:"../../images/skilledt_img_01.png",
+                        company:"海南大学海甸校区",
+                        avatar:"../../images/aunt.png",
                         nickname:'张保洁员',
-                        price:'¥50/h',
-                        message:'从事保洁行业10余年，有丰富经验',
+                        price:'¥200',
+                        message:'从事保洁行业60余年，有丰富经验',
                         distance:'100m'
                     },
                     {
-                        company:"海南大学女生宿舍",
-                        avatar:"../../images/skilledt_img_02.png",
-                        nickname:'包阿姨',
-                        price:'¥50/h',
-                        message:'从事洗衣行业10余年，有丰富经验',
+                        company:"圆月亮维修公司",
+                        avatar:"../../images/aunt.png",
+                        nickname:'包维修工',
+                        price:'¥400',
+                        message:'从事美发行业60余年，有丰富经验',
                         distance:'200m'
                     },
                     {
-                        company:"维修公司",
-                        avatar:"../../images/skilledt_img_03.png",
-                        nickname:'王技师',
-                        price:'¥60/h',
-                        message:'从事维修行业10余年，有丰富经验',
+                        company:"璀璨洗衣会所",
+                        avatar:"../../images/aunt.png",
+                        nickname:'王洗衣师',
+                        price:'¥200',
+                        message:'从事洗衣行业60余年，有丰富经验',
                         distance:'100m'
                     },
                     {
-                        company:"海南大学女生宿舍2",
-                        avatar:"../../images/skilledt_img_04.png",
-                        nickname:'黄阿姨',
-                        price:'¥40/h',
-                        message:'从事保洁行业10余年，有丰富经验',
+                        company:"柔丝妮保洁公司",
+                        avatar:"../../images/aunt.png",
+                        nickname:'黄师傅',
+                        price:'¥300',
+                        message:'从事保洁行业60余年，有丰富经验',
                         distance:'400m'
                     }
             ]
@@ -211,7 +211,7 @@ function searchAddrFromAddrs(addrid){
 function userData(){
     var arr = {
                 uid:'1',
-                nickname:'山炮',
+                nickname:'山风',
                 name:'张三',
                 phone:'13833337998',
                 avatar:'../../images/avatar.png',
